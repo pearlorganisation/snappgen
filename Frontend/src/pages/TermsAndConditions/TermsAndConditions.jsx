@@ -9,7 +9,7 @@ const TermsAndConditions = () => {
         {
           subheading: "",
           content:
-            "Welcome to Headgen.ai, a service provided by Playcloud Technologies Private Limited. By using our website and services, you agree to comply with and be bound by the following Terms of Service. Please read these terms carefully.",
+            "Welcome to SnappGen.in, a service provided by Playcloud Technologies Private Limited. By using our website and services, you agree to comply with and be bound by the following Terms of Service. Please read these terms carefully.",
         },
       ],
     },
@@ -19,7 +19,7 @@ const TermsAndConditions = () => {
         {
           subheading: "",
           content:
-            "Headgen.ai offers users the ability to upload a single selfie and receive 8 professional headshot images suitable for LinkedIn or corporate use.",
+            "SnappGen.in offers users the ability to upload a single selfie and receive 8 professional headshot images suitable for LinkedIn or corporate use.",
         },
       ],
     },
@@ -56,7 +56,7 @@ const TermsAndConditions = () => {
               We do not provide automatic refunds for our services. <br />
               If customers encounter issues or are dissatisfied with the
               generated headshot images, they can contact us at
-              support@headgen.ai within 7 days of receiving the images. <br />
+              support@SnappGen.in within 7 days of receiving the images. <br />
               Customers should provide detailed information about the issue
               along with relevant screenshots.
               <br />
@@ -78,7 +78,7 @@ const TermsAndConditions = () => {
             <>
               For any inquiries, concerns, or support, customers can reach our
               Customer Care Number at 9987357345 or contact us via email at
-              support@headgen.ai.
+              support@SnappGen.in.
             </>
           ),
         },
@@ -117,7 +117,7 @@ const TermsAndConditions = () => {
               We reserve the right to update and modify these Terms of Service
               at any time. Changes will be effective immediately and will be
               reflected on our website. <br />
-              By using Headgen.ai, you acknowledge that you have read and
+              By using SnappGen.in, you acknowledge that you have read and
               understood these Terms of Service. If you do not agree with our
               terms, please refrain from using our services.
             </>

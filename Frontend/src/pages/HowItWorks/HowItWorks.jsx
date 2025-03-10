@@ -71,11 +71,11 @@ const HowItWorks = () => {
     <>
       <Helmet>
         <title>
-          How HeadGen AI Works | Simple AI Headshot Generator & AI Photo Generation Process
+          How SnappGen AI Works | Simple AI Headshot Generator & AI Photo Generation Process
         </title>
         <meta
           name="description"
-          content="Discover how HeadGen AI’s AI image generator creates professional, realistic headshots for resumes, teams, doctors, and LinkedIn. Using our AI photo generator, we deliver the best AI Generated images with ease."
+          content="Discover how SnappGen's AI image generator creates professional, realistic headshots for resumes, teams, doctors, and LinkedIn. Using our AI photo generator, we deliver the best AI Generated images with ease."
         />
       </Helmet>
 

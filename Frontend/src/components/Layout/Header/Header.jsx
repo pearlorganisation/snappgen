@@ -154,108 +154,108 @@ const Header = () => {
   ];
 
   // country selection
-  const countries = [
-    // European countries first
-    {
-      countryImg: "https://flagcdn.com/w160/se.png",
-      countryName: "Sweden",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/dk.png",
-      countryName: "Denmark",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/gb.png",
-      countryName: "United Kingdom",
-    },
-    {
-      countryImg: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1739351397/Flag_of_the_Netherlands.svg_a0wwqk.png",
-      countryName: "Netherlands",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/ch.png",
-      countryName: "Switzerland",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/no.png",
-      countryName: "Norway",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/fi.png",
-      countryName: "Finland",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/as.png",
-      countryName: "Austria",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/de.png",
-      countryName: "Germany",
-    },
+  // const countries = [
+  //   // European countries first
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/se.png",
+  //     countryName: "Sweden",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/dk.png",
+  //     countryName: "Denmark",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/gb.png",
+  //     countryName: "United Kingdom",
+  //   },
+  //   {
+  //     countryImg: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1739351397/Flag_of_the_Netherlands.svg_a0wwqk.png",
+  //     countryName: "Netherlands",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/ch.png",
+  //     countryName: "Switzerland",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/no.png",
+  //     countryName: "Norway",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/fi.png",
+  //     countryName: "Finland",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/as.png",
+  //     countryName: "Austria",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/de.png",
+  //     countryName: "Germany",
+  //   },
 
-    // Non-European countries
-    {
-      countryImg: "https://flagcdn.com/w160/us.png",
-      countryName: "United States",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/ua.png",
-      countryName: "Canada",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/nz.png",
-      countryName: "New Zealand",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/au.png",
-      countryName: "Australia",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/in.png",
-      countryName: "India",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/ae.png",
-      countryName: "Dubai",
-    },
-    {
-      countryImg:
-        "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1729681906/Screenshot_2024-10-23_164133_gthtvx.png",
-      countryName: "Japan",
-    },
-    {
-      countryImg: "https://flagcdn.com/w160/kr.png",
-      countryName: "South Korea",
-    },
-  ];
+  //   // Non-European countries
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/us.png",
+  //     countryName: "United States",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/ua.png",
+  //     countryName: "Canada",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/nz.png",
+  //     countryName: "New Zealand",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/au.png",
+  //     countryName: "Australia",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/in.png",
+  //     countryName: "India",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/ae.png",
+  //     countryName: "Dubai",
+  //   },
+  //   {
+  //     countryImg:
+  //       "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1729681906/Screenshot_2024-10-23_164133_gthtvx.png",
+  //     countryName: "Japan",
+  //   },
+  //   {
+  //     countryImg: "https://flagcdn.com/w160/kr.png",
+  //     countryName: "South Korea",
+  //   },
+  // ];
 
-  useEffect(() => {
-    const storedCountry = localStorage.getItem("selectedCountry");
-    if (storedCountry) {
-      setSelectedCountry(JSON.parse(storedCountry));
-    } else {
-      localStorage.setItem(
-        "selectedCountry",
-        JSON.stringify({
-          countryImg: "https://flagcdn.com/w160/se.png",
-          countryName: "Sweden",
-        },)
-      );
-      setSelectedCountry({
-        countryImg: "https://flagcdn.com/w160/se.png",
-        countryName: "Sweden",
-      },);
-    }
-  }, []);
+  // useEffect(() => {
+  //   const storedCountry = localStorage.getItem("selectedCountry");
+  //   if (storedCountry) {
+  //     setSelectedCountry(JSON.parse(storedCountry));
+  //   } else {
+  //     localStorage.setItem(
+  //       "selectedCountry",
+  //       JSON.stringify({
+  //         countryImg: "https://flagcdn.com/w160/se.png",
+  //         countryName: "Sweden",
+  //       },)
+  //     );
+  //     setSelectedCountry({
+  //       countryImg: "https://flagcdn.com/w160/se.png",
+  //       countryName: "Sweden",
+  //     },);
+  //   }
+  // }, []);
 
 
-  const handleSelect = (country) => {
-    setSelectedCountry(country);
-    localStorage.setItem("selectedCountry", JSON.stringify(country));
-    setTimeout(() => {
-      setIsOpen(false);
-    }, 100);
-  };
+  // const handleSelect = (country) => {
+  //   setSelectedCountry(country);
+  //   localStorage.setItem("selectedCountry", JSON.stringify(country));
+  //   setTimeout(() => {
+  //     setIsOpen(false);
+  //   }, 100);
+  // };
 
   return (
     <nav
@@ -266,7 +266,7 @@ const Header = () => {
         <div className="flex flex-col justify-center">
           <Link to="/" aria-label="Home page link in header">
             <LazyLoadImage
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738921221/Your_paragraph_text_-_2025-02-07T150932.516_t2m5p2.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740306937/SnappGen_AI_Logo_icqscx.webp"
               alt=""
               className="w-[140px] sm:w-[180px] max-w-[180px]"
               height={"33px"}
@@ -300,7 +300,7 @@ const Header = () => {
                 "Select a country"
               )}
             </button>
-            {isOpen && (
+            {/* {isOpen && (
               <div className="absolute z-10 w-[200px] mt-1 top-full left-1/2 -translate-x-1/2 bg-white border border-gray-300 rounded-md shadow-lg transition duration-300">
                 <ul className="max-h-96 overflow-auto">
                   {countries.map((country) => (
@@ -324,7 +324,7 @@ const Header = () => {
                   ))}
                 </ul>
               </div>
-            )}
+            )} */}
           </div>
           <div
             className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white rounded-lg"
@@ -383,7 +383,7 @@ const Header = () => {
           ))}
 
           {/* country selection */}
-
+{/* 
           <div
             className="flex flex-col justify-center relative"
             ref={dropdownRef}
@@ -400,7 +400,7 @@ const Header = () => {
                     className="w-10 h-10 rounded-full object-fit object-cover"
                   />
 
-                  {/* <span className="oswald text-sm font-semibold">{selectedCountry.countryName}</span> */}
+                  
                 </div>
               ) : (
                 "Select a country"
@@ -428,7 +428,7 @@ const Header = () => {
                 </ul>
               </div>
             )}
-          </div>
+          </div> */}
 
           {/* button */}
           <div className="h-full flex flex-col justify-center py-3">

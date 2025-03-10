@@ -13,8 +13,8 @@ const FreeHeadshots = () => {
   return (
     <>
     <Helmet>
-      <title>Free AI Headshots | Try HeadGen AI’s Free AI Image Generator & AI Photo Generator</title>
-      <meta name="description" content="Get free AI Generated images with HeadGen AI’s advanced AI image generator. Create professional photos for resumes, teams, or LinkedIn with our easy-to-use AI headshot generator" />
+      <title>Free AI Headshots | Try SnappGen AI’s Free AI Image Generator & AI Photo Generator</title>
+      <meta name="description" content="Get free AI Generated images with SnappGen AI’s advanced AI image generator. Create professional photos for resumes, teams, or LinkedIn with our easy-to-use AI headshot generator" />
     </Helmet>
     <div className=" space-y-4 text-white pt-28 md:px-10  xl:px-[160px] 2xl:px-[250px]">
       <div className="flex flex-wrap gap-12 md:gap-0 place-items-center space-y-4 ">

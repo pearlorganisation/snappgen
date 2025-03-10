@@ -39,7 +39,7 @@ const FaqAccordian = () => {
     },
     {
       question: 'Can I have branded or custom style?',
-      answer: "For custom styles and packages email us at support@headgen.ai.Perfect for corporate events or anyone needing a Headshot to match brand guidelines."
+      answer: "For custom styles and packages email us at support@snappgen.in .Perfect for corporate events or anyone needing a Headshot to match brand guidelines."
     },
     {
       question: 'Who are we?',
@@ -48,7 +48,7 @@ const FaqAccordian = () => {
 
     {
       question: 'Can I get Free Headshots?',
-      answer: "Yes, we love collabs , write to us at support@headgen.ai with your ideas. Share your photos on LinkedIn, Twitter, Instagram, or TikTok and tag/mention us! We will generate extra Images for you for free!"
+      answer: "Yes, we love collabs , write to us at support@snappgen.in with your ideas. Share your photos on LinkedIn, Twitter, Instagram, or TikTok and tag/mention us! We will generate extra Images for you for free!"
     },
 
     // {

@@ -9,10 +9,10 @@ const AboutUs = () => {
   const aboutUsContent = (
     <>
       <Helmet>
-        <title>About HeadGen AI | Leading AI Headshot & Photo Generator for Professional AI Headshots</title>
+        <title>About SnappGen AI | Leading AI Headshot & Photo Generator for Professional AI Headshots</title>
         <meta
           name="description"
-          content="Learn how HeadGen AI’s AI image generator delivers professional, realistic headshots. Our AI Generated images and AI Headshot generator create polished photos for individuals and teams."
+          content="Learn how SnappGen AI’s AI image generator delivers professional, realistic headshots. Our AI Generated images and AI Headshot generator create polished photos for individuals and teams."
         />
       </Helmet>
 
@@ -28,7 +28,7 @@ const AboutUs = () => {
         <h3 className="font-bold">About Us:</h3>
 
         <span>
-          Playcloud Technologies Limited (HeadGen AI) is dedicated to perfecting
+          Playcloud Technologies Limited (SnappGen AI) is dedicated to perfecting
           AI-generated images. Situated at the crossroads of design,
           programming, and art. We craft exceptional digital tools and services
           leveraging generative AI.
@@ -45,7 +45,7 @@ const AboutUs = () => {
         <h3 className="font-bold">Contact Us:</h3>
 
         <span>
-          Email: support@headgen.ai <br />
+          Email: support@snappgen.ai <br />
           WhatsApp: +91 9820442749 (for collaborations or urgent requests)
           <br />
           We value your input and welcome your thoughts, feedback, and requests.
@@ -108,7 +108,7 @@ const AboutUs = () => {
           creating the most realistic AI headshot generator on the market.
           Krasia's strengths in computer science and visual design, combined
           with Ruark's vast experience as an entrepreneur and photographer, have
-          created the perfect blend for HeadGen AI, resulting in a
+          created the perfect blend for SnappGen AI, resulting in a
           groundbreaking tool for generating high-quality AI images.
         </>
       ),
@@ -177,7 +177,7 @@ const AboutUs = () => {
         <h2 className="text-[#F1F1F1] text-center text-3xl md:text-5xl font-medium">
           Meet the AI Founders of{" "}
           <span className="bg-gradient-to-r from-[#02AFDC] to-[#2563EB]  inline-block text-transparent bg-clip-text font-bold py-5">
-            Headgen
+          SnappGen
           </span>
         </h2>
 

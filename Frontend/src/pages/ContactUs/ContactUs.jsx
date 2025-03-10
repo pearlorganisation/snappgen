@@ -16,10 +16,10 @@ const ContactUs = () => {
           <br />
           Email:{" "}
           <a
-            href="mailto:support@headgen.ai"
+            href="mailto:support@snappgen.ai"
             className="text-[#e6e4e4] underline hover:text-[#ffffff]"
           >
-            support@headgen.ai
+            support@snappgen.ai
           </a>
         </>
       ),
@@ -34,10 +34,10 @@ const ContactUs = () => {
           <br />
           Email:{" "}
           <a
-            href="mailto:support@headgen.ai"
+            href="mailto:support@snappgen.ai"
             className="text-[#e6e4e4] underline hover:text-[#ffffff]"
           >
-            support@headgen.ai
+            support@snappgen.ai
           </a>
           <br />
           Customer Care:{" "}
@@ -56,7 +56,7 @@ const ContactUs = () => {
     <>
     <Helmet>
         <title>
-        Contact HeadGen AI | Get in Touch with Our AI Photo Generator Team
+        Contact SnappGen AI | Get in Touch with Our AI Photo Generator Team
         </title>
         {/* <meta
           name="description"

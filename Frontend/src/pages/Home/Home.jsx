@@ -34,67 +34,70 @@ const Home = () => {
   const imgData1 = [
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722235149/HeadGen_AI_HeadShots_7_vqu14t.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316701/AI_Headshots_Snappgen_16_mpjmvv.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722235053/HeadGen_AI_HeadShots_6_mws1op.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316701/15_j9ojqe.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234954/HeadGen_AI_HeadShots_5_ur8a05.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316701/14_rlgflu.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234896/HeadGen_AI_HeadShots_2_cueds0.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316138/13_pycpao.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234895/HeadGen_AI_HeadShots_gkz5mj.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316100/12_yybi1y.webp",
+    },
+    
+    
+    {
+      name: "",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316079/7_m7cjme.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234891/HeadGen_AI_HeadShots_9_tzkq9v.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316029/AI_Headshots_Snappgen_6_wvu8mk.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234890/HeadGen_AI_HeadShots_8_tpqcon.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316080/11_tzzedu.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722235149/HeadGen_AI_HeadShots_7_vqu14t.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316080/10_qxsd10.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722235053/HeadGen_AI_HeadShots_6_mws1op.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316080/9_loagvr.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234954/HeadGen_AI_HeadShots_5_ur8a05.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316080/8_l9ztw1.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234896/HeadGen_AI_HeadShots_2_cueds0.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316003/AI_Headshots_Snappgen_5_gvlsnz.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234895/HeadGen_AI_HeadShots_gkz5mj.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316003/AI_Headshots_Snappgen_4_iikaqy.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234891/HeadGen_AI_HeadShots_9_tzkq9v.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316002/AI_Headshots_Snappgen_3_lt5tow.webp",
+    },
+    
+    {
+      name: "",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316002/AI_Headshots_Snappgen_2_t0ni9i.webp",
     },
     {
       name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234890/HeadGen_AI_HeadShots_8_tpqcon.webp",
-    },
-    {
-      name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234954/HeadGen_AI_HeadShots_5_ur8a05.webp",
-    },
-    {
-      name: "",
-      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1722234896/HeadGen_AI_HeadShots_2_cueds0.webp",
+      path: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740316002/AI_Headshots_Snappgen_1_xtvov5.webp",
     },
   ];
 
@@ -482,23 +485,23 @@ const Home = () => {
   const howitworks = [
     {
       id: 1,
-      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251125/14_1_lb0ptb.webp",
+      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740320328/How_Snappgen_AI_Works_szv9e3.webp",
       title: "Upload a Selfie",
     },
 
     {
       id: 2,
-      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251125/15_1_kdhxuf.webp",
+      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740320329/How_to_get_AI_Headshots_yjdatp.webp",
       title: "Select Attire & Background",
     },
     {
       id: 3,
-      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251126/16_1_m5xxlu.webp",
-      title: "HeadGen AI gets to work",
+      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740320329/AI_Headshot_Generator_b9jwcu.webp",
+      title: "SnappGen AI gets to work",
     },
     {
       id: 4,
-      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251126/17_1_ksomyw.webp",
+      img: "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740320329/AI_Headshots_hzgcfd.webp",
       title: "Recieve AI Headshots via E-mail",
     },
   ];
@@ -513,7 +516,7 @@ const Home = () => {
     },
     {
       title: "Secured Data",
-      content: "HeadGen.ai will never sell your data to any third party.",
+      content: "SnappGen.in will never sell your data to any third party.",
       imgPath:
         "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1728030951/secure_auiiz0.webp",
     },
@@ -546,12 +549,12 @@ const Home = () => {
     <>
       <Helmet>
         <title>
-          HeadGen AI | AI Image Generator for Realistic AI Headshots &
+          SnappGen AI | AI Image Generator for Realistic AI Headshots &
           High-Quality AI Photos
         </title>
         <meta
           name="description"
-          content="HeadGen AI’s AI image generator creates professional, realistic headshots for resumes, teams, doctors, and LinkedIn. Using our AI photo generator, we deliver the best AI Generated images with ease."
+          content="SnappGen AI’s AI image generator creates professional, realistic headshots for resumes, teams, doctors, and LinkedIn. Using our AI photo generator, we deliver the best AI Generated images with ease."
         />
       </Helmet>
       <div className="w-full py-20  flex flex-col bg-gradient-to-b gradientBg gap-5 md:gap-5 overflow-x-hidden">
@@ -683,7 +686,7 @@ const Home = () => {
 
       <div className="mx-auto text-center space-y-10 border-red-500">
         <h2 className="text-xl text-center md:text-[45px] font-semibold lg:font-normal lg:text-[64px] text-white">
-          <span className="text-blue-500">Swipe</span> to see Headgen AI Results
+          <span className="text-blue-500">Swipe</span> to see SnappGen AI Results
         </h2>
         <div className="">
           <div className="px-10 md:px-16 2xl:px-[200px] flex flex-row flex-wrap justify-center gap-5">
@@ -828,7 +831,7 @@ const Home = () => {
               <span>Questions</span>
             </h2>
             <div className="text-[#F1F1F1] text-center text-[13px] md:text-[14px]">
-              E-mail is at support@headgen.ai <br /> we are available round the clock.
+              E-mail is at support@snappgen.in <br /> we are available round the clock.
             </div>
           </div>
         </div>
@@ -961,7 +964,7 @@ const Home = () => {
               <span>Guarantee</span>
             </h2>
             <div className="text-[#F1F1F1] text-center text-[10px] md:text-[14px]">
-              Try Headgen.ai with confidence. Our results are Mind blowing.
+              Try SnappGen.in with confidence. Our results are Mind blowing.
             </div>
             <Link
               to="/corporate-ai-headshots"
@@ -976,7 +979,7 @@ const Home = () => {
         <div className="flex flex-col gap-24 px-10 md:px-16 2xl:px-[200px]">
           <h2 className="text-center text-xl md:text-4xl xl:text-6xl text-[#F1F1F1]">
             <span className=" bg-gradient-to-r from-[#02AFDC] to-[#2563EB] inline-block text-transparent bg-clip-text font-bold">
-              HeadGen
+            SnappGen
             </span>{" "}
             AI Blog
           </h2>

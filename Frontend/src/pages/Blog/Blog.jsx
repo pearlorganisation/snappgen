@@ -55,11 +55,11 @@ const Blog = () => {
     <>
       <Helmet>
         <title>
-        HeadGen AI Blog | Insights on AI Headshot Generation, AI Images, and AI Photography
+        SnappGen AI Blog | Insights on AI Headshot Generation, AI Images, and AI Photography
         </title>
         {/* <meta
           name="description"
-          content="Get free AI Generated images with HeadGen AI’s advanced AI image generator. Create professional photos for resumes, teams, or LinkedIn with our easy-to-use AI headshot generator"
+          content="Get free AI Generated images with SnappGen AI’s advanced AI image generator. Create professional photos for resumes, teams, or LinkedIn with our easy-to-use AI headshot generator"
         /> */}
       </Helmet>
     <div className="min-h-screen grid place-items-center text-white">

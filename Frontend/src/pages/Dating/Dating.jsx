@@ -23,7 +23,7 @@ const Dating = () => {
     },
     {
       title: "Get Amazing Dating Images",
-      content: "Improve your dating game and stand out with Headgen AI",
+      content: "Improve your dating game and stand out with SnappGen AI",
       imgPath:
         "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1721023832/dating_get_ai_images_mij2ul.webp",
     },
@@ -105,7 +105,7 @@ const Dating = () => {
         </title>
         <meta
           name="description"
-          content="Use HeadGen AI’s AI image generator to create the perfect dating profile photo. Our AI Generated images are high-quality and personalized, ensuring you stand out from the crowd."
+          content="Use SnappGen AI’s AI image generator to create the perfect dating profile photo. Our AI Generated images are high-quality and personalized, ensuring you stand out from the crowd."
         />
       </Helmet>
       <div className="w-full py-20 px-10  xl:px-[160px] 2xl:px-[250px] flex flex-col bg-[#161616] gap-10 gradientBgRed">

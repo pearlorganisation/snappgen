@@ -9,7 +9,7 @@ const PrivacyPolicy = () => {
         {
           subheading: "",
           content:
-            "Welcome to Headgen.ai, a service provided by Playcloud Technologies Private Limited. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our website and services. By using Headgen.ai, you agree to the terms outlined in this Privacy Policy. Please read this document carefully to understand how we handle your information.",
+            "Welcome to SnappGen.in, a service provided by Playcloud Technologies Private Limited. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our website and services. By using SnappGen.in, you agree to the terms outlined in this Privacy Policy. Please read this document carefully to understand how we handle your information.",
         },
       ],
     },
@@ -94,7 +94,7 @@ const PrivacyPolicy = () => {
         {
           subheading: "",
           content:
-            "If you have any questions or concerns about our privacy practices, you can contact us at: Customer Care Number: 9987357345, Email: support@headgen.ai",
+            "If you have any questions or concerns about our privacy practices, you can contact us at: Customer Care Number: 9987357345, Email: support@SnappGen.in",
         },
       ],
     },
@@ -116,7 +116,7 @@ const PrivacyPolicy = () => {
         {
           subheading: "",
           content:
-            "Your personal information may be processed in Bangalore, India, where our main operations are based. By using Headgen.ai, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with our practices, please refrain from using our services.",
+            "Your personal information may be processed in Bangalore, India, where our main operations are based. By using SnappGen.in, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with our practices, please refrain from using our services.",
         },
       ],
     },
@@ -133,7 +133,7 @@ const PrivacyPolicy = () => {
           10th floor, RMZ Latitude Commercial Building, Bellary Rd,
           Vinayakanagar, Byatarayanapura, Bengaluru, Karnataka 560024
           <br />
-          Email: support@headgen.ai
+          Email: support@SnappGen.in
           <br />
           Date: 10-01-2024
         </>
@@ -149,7 +149,7 @@ const PrivacyPolicy = () => {
           10th floor, RMZ Latitude Commercial Building,Bellary Rd Vinayakanagar,
           Byatarayanapura, Bengaluru, Karnataka, 560024
           <br />
-          support@headgen.ai
+          support@SnappGen.in
           <br />
           Customer Care: +91 9820442749
         </>

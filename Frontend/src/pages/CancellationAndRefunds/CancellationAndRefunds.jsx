@@ -9,7 +9,7 @@ const CancellationAndRefunds = () => {
         {
           subheading: "",
           content:
-            "Welcome to Headgen.ai, a service provided by Playcloud Technologies Private Limited. This Cancellation and Refund Policy outlines the terms and conditions regarding the cancellation and refund process for our services.",
+            "Welcome to SnappGen.in, a service provided by Playcloud Technologies Private Limited. This Cancellation and Refund Policy outlines the terms and conditions regarding the cancellation and refund process for our services.",
         },
       ],
     },
@@ -19,7 +19,7 @@ const CancellationAndRefunds = () => {
         {
           subheading: "",
           content:
-            "Headgen.ai provides users with the ability to upload a selfie and receive 8 professional headshot images for LinkedIn or corporate use.",
+            "SnappGen.in provides users with the ability to upload a selfie and receive 8 professional headshot images for LinkedIn or corporate use.",
         },
       ],
     },
@@ -52,7 +52,7 @@ const CancellationAndRefunds = () => {
         {
           subheading: "",
           content:
-            "We do not provide automatic refunds for our services. In case of any issues or dissatisfaction with the generated headshot images, customers can contact us at support@headgen.ai within 7 days of receiving the images. Customers should provide detailed information about the issue along with relevant screenshots. Refunds will be considered on a case-by-case basis. If the issue is deemed valid, we may offer a refund or other appropriate resolution.",
+            "We do not provide automatic refunds for our services. In case of any issues or dissatisfaction with the generated headshot images, customers can contact us at support@snappgen.ai within 7 days of receiving the images. Customers should provide detailed information about the issue along with relevant screenshots. Refunds will be considered on a case-by-case basis. If the issue is deemed valid, we may offer a refund or other appropriate resolution.",
         },
       ],
     },
@@ -67,7 +67,7 @@ const CancellationAndRefunds = () => {
               For any concerns or issues related to cancellations and refunds,
               <br /> customers can contact us at: Customer Care <br /> Number:
               9987357345 <br />
-              Email: support@headgen.ai
+              Email: support@snappgen.ai
             </>
           ),
         },
@@ -80,7 +80,7 @@ const CancellationAndRefunds = () => {
         {
           subheading: "",
           content:
-            "We reserve the right to update and modify this Cancellation and Refund Policy as needed. Any changes will be effective immediately and will be reflected on our website. By using Headgen.ai, you acknowledge that you have read and understood this Cancellation and Refund Policy. If you do not agree with our policies, please refrain from using our services.",
+            "We reserve the right to update and modify this Cancellation and Refund Policy as needed. Any changes will be effective immediately and will be reflected on our website. By using SnappGen.in, you acknowledge that you have read and understood this Cancellation and Refund Policy. If you do not agree with our policies, please refrain from using our services.",
         },
       ],
     },
@@ -90,11 +90,11 @@ const CancellationAndRefunds = () => {
     <>
       <Helmet>
         <title>
-        Cancellation & Refund Policy | HeadGen AI - AI Headshot Generator & AI Photo Services
+        Cancellation & Refund Policy | SnappGen AI - AI Headshot Generator & AI Photo Services
         </title>
         {/* <meta
           name="description"
-          content="Discover how HeadGen AI’s AI image generator creates professional, realistic headshots for resumes, teams, doctors, and LinkedIn. Using our AI photo generator, we deliver the best AI Generated images with ease."
+          content="Discover how SnappGen's AI image generator creates professional, realistic headshots for resumes, teams, doctors, and LinkedIn. Using our AI photo generator, we deliver the best AI Generated images with ease."
         /> */}
       </Helmet>
       <div className="w-full text-white py-24 px-10 xl:px-[250px] bg-[#161616] flex flex-col gap-6 xl:gap-[3.5rem] tracking-wider">

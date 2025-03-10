@@ -201,12 +201,12 @@ const FreeHeadshotsTab = () => {
     <>
       <Helmet>
         <title>
-          Free AI Headshots | Try HeadGen AI’s Free AI Image Generator & AI
+          Free AI Headshots | Try SnappGen AI’s Free AI Image Generator & AI
           Photo Generator
         </title>
         <meta
           name="description"
-          content="Get free AI Generated images with HeadGen AI’s advanced AI image generator. Create professional photos for resumes, teams, or LinkedIn with our easy-to-use AI headshot generator"
+          content="Get free AI Generated images with SnappGen AI’s advanced AI image generator. Create professional photos for resumes, teams, or LinkedIn with our easy-to-use AI headshot generator"
         />
       </Helmet>
       <div className="flex flex-col items-center gap-10 px-10 2xl:px-[80px] gradientBg py-20 lg:py-36">

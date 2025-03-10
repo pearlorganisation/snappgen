@@ -27,7 +27,7 @@ const PriceTable = () => {
         <div className="grid grid-cols-3 md:grid-cols-3">
           <div className="text-white text-center font-bold py-3 md:px-6 boder border-white border-r border-b"> </div>
           <div className="text-white text-center text-sm md:text-2xl font-bold py-3 md:px-6 boder border-white  border-b border-r">
-            with HeadGen AI
+            with SnappGen AI
           </div>
           <div className="text-white text-center text-sm md:text-2xl font-bold py-3 md:px-6 boder border-white  border-b">
             <div className="text-center">

@@ -92,15 +92,15 @@ const Footer = () => {
           link: "/contact-us",
         },
         {
-          title: "Support@headgen.ai",
-          link: "mailto:support@headgen.ai",
+          title: "Support@snappgen.in",
+          link: "mailto:support@snappgen.ai",
         },
         {
           title: "+91 9820442749",
           link: "tel:+919820442749",
         },
         {
-          link: "https://www.producthunt.com/products/headgen-ai",
+          link: "https://www.producthunt.com/products/snappgen-ai",
           title: "product hunt logo",
           alt: "product hunt",
           imgPath:
@@ -126,7 +126,7 @@ const Footer = () => {
             <div className="w-[90%] px-2 py-3 bg-gradient-to-r from-[#59caff] to-[#5636F3] rounded-xl text-[#f1f1f1] text-[15px] font-medium transition duration-300 absolute -bottom-4 left-1/2 -translate-x-1/2">
               <LazyLoadImage
                 alt=""
-                src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738921221/Your_paragraph_text_-_2025-02-07T150932.516_t2m5p2.webp"
+                src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740306937/SnappGen_AI_Logo_icqscx.webp"
                 width={"240px"}
                 height={"58px"}
               />
