@@ -10,22 +10,22 @@ function AIHeadshot() {
         return (
           <div className="flex flex-row md:px-10  gap-6  py-4 md:justify-center">
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326070/HeadGen_AI_Corporate_2_nmtwci.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742109921/SnappGen_AI_Headshots_for_LinkedIn_hn6ibi.webp"
               alt=""
               className="min-w-[200px] w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326070/HeadGen_AI_Corporate_4_luw4ea.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742109921/AI_Images_o79xkw.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326070/HeadGen_AI_Corporate_3_hm7qgs.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742109921/SnappGen_Corporate_AI_headshots_ctsh3t.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326070/HeadGen_Corporate_1_dmiwms.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742109921/AI_Headshots_mmlmwt.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
@@ -35,22 +35,22 @@ function AIHeadshot() {
         return (
           <div className="flex flex-row md:px-10  gap-6  py-4 md:justify-center">
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326121/Doctor_AI_Headshots_4_ht3cw4.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110157/Doctor_AI_Headshots_evk0su.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326110/Doctor_AI_Headshots_3_acq4fl.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110156/Doctor_AI_Headshots_India_h4ghvi.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326088/Doctor_AI_Headshots_1_o1y8vt.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110147/AI_Headshots_for_Practo_b3hxfn.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326100/Doctor_AI_Headshots_2_xqdqyh.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110147/AI_Headshots_for_Doctors_ryyos5.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
@@ -60,22 +60,22 @@ function AIHeadshot() {
         return (
           <div className="flex flex-row md:px-10  gap-6  py-4 md:justify-center">
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326217/16_2_bztxlb.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110559/Tinder_AI_Headshots_vynnth.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326216/15_2_ooaewu.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110462/Bumble_AI_Headshots_udz7yj.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326215/13_gv0mxc.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110462/AI_Headshots_for_Dating_Profile_i0afns.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326216/14_2_jien4d.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742110461/41_hh4mod.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
@@ -85,22 +85,22 @@ function AIHeadshot() {
         return (
           <div className="flex flex-row md:px-10  gap-6  py-4 md:justify-center">
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326135/student_cwwfmp.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742127602/Student___AI_Image_Generator_sed79w.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326134/HeadGen_AI_Student_Headshot_3_uwyohq.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742127602/AI_Images_for_Resume_zqkx9q.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326133/HeadGen_AI_Student_1_gdc7ep.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742127602/Student___AI___Headshots_nufbva.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />
             <img
-              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738326133/HeadGen_AI_Studetn_HEadshot_3_rlp5v8.webp"
+              src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742127602/AI_Headshots_For_Resumes_om3ljh.webp"
               alt=""
               className="min-w-[200px]  w-[200px] h-[200px] rounded-md"
             />

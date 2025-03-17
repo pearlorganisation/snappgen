@@ -670,7 +670,7 @@ const Home = () => {
             <div className="w-[250px] h-[250px] flex-shrink-0">
               <img
                 alt="Corporate AI Headshots"
-                src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251126/HeadGen_New_Images_1_bh9da7.webp"
+                src="https://res.cloudinary.com/dj2fvzfmm/image/upload/v1740320637/LinkedIn_AI_Headshot_nghg7q.webp"
                 className="w-full h-full object-cover rounded-lg md:hover:-translate-y-4 cursor-pointer transition duration-300"
               />
             </div>
@@ -693,10 +693,10 @@ const Home = () => {
             <div className="bg-[#111428] shadow-[0_0_0_1px_#2563EB] rounded-xl px-4 py-8 h-fit w-fit">
               <BeforeAfterSlider
                 img1={
-                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738327056/17_3_qkcq94.webp"
+                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742130373/58_hfrl6j.webp"
                 }
                 img2={
-                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738327059/20_1_ud2smx.webp"
+                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742130374/59_egke1a.webp"
                 }
               />
             </div>
@@ -704,10 +704,10 @@ const Home = () => {
             <div className="bg-[#111428] shadow-[0_0_0_1px_#2563EB] rounded-xl px-4 py-8 h-fit w-fit">
               <BeforeAfterSlider
                 img1={
-                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251126/HeadGen_New_Images_2_ulenkv.webp"
+                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742130371/56_nkcka6.webp"
                 }
                 img2={
-                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1736251126/HeadGen_New_Images_3_pjophi.png"
+                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742130370/57_iednxx.webp"
                 }
               />
             </div>
@@ -715,10 +715,10 @@ const Home = () => {
             <div className="bg-[#111428] shadow-[0_0_0_1px_#2563EB] rounded-xl px-4 py-8 h-fit w-fit">
               <BeforeAfterSlider
                 img1={
-                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738327057/18_1_nvpokc.webp"
+                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742130369/54_sbeqdj.webp"
                 }
                 img2={
-                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1738327058/19_1_jj6f2l.webp"
+                  "https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742130369/55_zewklg.webp"
                 }
               />
             </div>

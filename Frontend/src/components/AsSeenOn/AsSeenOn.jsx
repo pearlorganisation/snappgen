@@ -12,7 +12,7 @@ bg-[#2563EB] text-transparent bg-clip-text `}
       </div>
 
       <LazyLoadImage alt="" 
-        src={`https://res.cloudinary.com/dj2fvzfmm/image/upload/v1729666295/aiphotosgenerator_r2na4s.webp`}
+        src={`https://res.cloudinary.com/dj2fvzfmm/image/upload/v1742111075/SnappGen_AI_Image_Generator_xmahzp.webp`}
         className={`w-full sm:w-2/3 lg:w-3/5 xl:w-2/5`}
         width={"700px"}
         height={"144px"}
